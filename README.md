@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# BLOG POSTS ON REDUX, HANDLING OF FORMS.
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
