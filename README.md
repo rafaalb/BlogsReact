@@ -1,6 +1,11 @@
 # BLOG POSTS ON REDUX, HANDLING OF FORMS.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Subjects:
+
+Validations of Forms with redux,
+Touched property on forms
+Show class on touched state.
+ES6
 
 ### Getting Started
 
